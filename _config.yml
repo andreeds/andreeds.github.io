@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://andreeds.github.io
+title: CS807 Notebook
+tagline: Resource Constrained Computing
+description: CS 807: (Interactive Hardware and Embedded Computing) Hardware design for physical<br />and pervasive computing systems. Wired and wireless communication protocols; sensors<br />and actuators; resource constraints; location- and context-awareness. Applications include:<br />wearable computing, wireless sensor networks, robotics and automation, internet of things.<br />Embedded hardware platforms such as ARM (raspberry Pi) and AVR (Arduino). - Syllabus CS807
+paginate: 5
