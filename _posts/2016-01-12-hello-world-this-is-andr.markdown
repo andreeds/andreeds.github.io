@@ -3,8 +3,6 @@ published: true
 title: Hello world, this is André!
 layout: post
 ---
-# Hello world, this is André!
-
 This is will be the blog. Here, my weekly activity will be recorded fro CS 807. 
 Interactive Hardware and Embedded Computing (CS 807) is a Graduate level course taught by Dr. Gerhard at the [University of Regina][uofr]. As described in the class syllabus, the studies will be on:
 > Hardware design for physical and pervasive computing systems. 
