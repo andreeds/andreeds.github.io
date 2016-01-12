@@ -5,6 +5,7 @@ layout: post
 ---
 This is will be the blog. Here, my weekly activity will be recorded fro CS 807. 
 Interactive Hardware and Embedded Computing (CS 807) is a Graduate level course taught by Dr. Gerhard at the [University of Regina][uofr]. As described in the class syllabus, the studies will be on:
+
 > Hardware design for physical and pervasive computing systems. 
 > Wired and wireless communication protocols; sensors and actuators; resource constraints; location- and context-awareness. 
 > Applications include: wearable computing, wireless sensor networks, robotics and automation, internet of things. 
