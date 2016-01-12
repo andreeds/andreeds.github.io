@@ -1,6 +1,6 @@
 ---
 published: true
-title: Research Tasks Propose
+title: Research Tasks Proposal
 layout: post
 ---
 # A: The Paper
