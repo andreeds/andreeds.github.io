@@ -13,11 +13,12 @@ Interactive Hardware and Embedded Computing (CS 807) is a Graduate level course 
 
 As previously mentioned, here all activities involving the application or theoretical tasks will be documented in this blog. Practical exercises with programming will be register on the Version Control System (VLC) Github. The access on my Github profile will be made accessible by [this link][gha].
 
-- Gitghub account: **andreeds**.
+- Gitghub account: **andreeds**
+- **cs807-research-tasks** repository.
 
 *Enjoy the reading and and may the force be with you!*
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
 
-[gha]: <https://github.com/andreeds>
+[gha]: <https://github.com/andreeds/cs807-research-tasks>
 [uofr]: <http://www.uregina.ca/>
