@@ -8,4 +8,5 @@ The idea here is to have a **compact** and **cheap** terminal available for stud
 This terminal should be able to handle, initially, 2 kinds of information: localization and contact info.
 Here, the goal will be to show the student how to get somewhere at the university or what is the phone number of a staff member.
 The project itself will be available in a github repository too.
+
 Link will be posted later.
