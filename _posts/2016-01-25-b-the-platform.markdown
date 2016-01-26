@@ -10,6 +10,10 @@ I will use the [guideline][gui] provided by Wit. To go a little bit further, I w
 
 Wit requires training. It needs to recognize the voice. This steps will be clearly declared on the project to be submitted.
 
+### UPDATE
+
+My ideia, to go a little further of the simple "Hello World!" is to train the app to identify colours. Given the value of the colour, the change the "fill" attribute of a *\<svg\>* on the fly.
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
 
 [wacwigi]: <https://www.wacom.com/en-us/store/other/wireless-accessory-kit#tab_overview>
