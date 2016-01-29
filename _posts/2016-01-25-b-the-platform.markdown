@@ -10,9 +10,13 @@ I will use the [guideline][gui] provided by Wit. To go a little bit further, I w
 
 Wit requires training. It needs to recognize the voice. This steps will be clearly declared on the project to be submitted.
 
-### UPDATE
+### UPDATE 1
 
 My ideia, to go a little further of the simple "Hello World!" is to train the app to identify colours. Given the value of the colour, the change the "fill" attribute of a *\<svg\>* on the fly.
+
+### UPDATE 2
+
+The code is working. Command the object to change its colour works. I still have the paper to finish writing and prepere the presentation.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
 
