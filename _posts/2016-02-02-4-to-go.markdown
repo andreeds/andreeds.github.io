@@ -1,8 +1,0 @@
----
-published: true
-title: 4 to go...
-layout: post
----
-**The Platform** paper was submitted. It took a little bit longer than I expected, but it met my expectations.
-The delay I could say was from doing the a journal paper adjustments that has been recently accepted on Computational Intelligence.
-I intend to to do the next task  (probably The Paper) yet this week. 
