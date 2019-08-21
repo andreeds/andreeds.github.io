@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes | DOS SANTOS</title>
+    <link>https://andreeds.github.io/classes/</link>
+      <atom:link href="https://andreeds.github.io/classes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Classes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <title>Classes</title>
+      <link>https://andreeds.github.io/classes/</link>
+    </image>
+    
+    <item>
+      <title>Discrete Computational Structures</title>
+      <link>https://andreeds.github.io/classes/cs310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/classes/cs310/</guid>
+      <description>
+
+&lt;h2 id=&#34;class-information&#34;&gt;Class Information:&lt;/h2&gt;
+
+&lt;p&gt;Tuesday and Thursday&lt;br /&gt;
+4:30pm - 5:45pm&lt;br /&gt;
+CL 317&lt;/p&gt;
+
+&lt;h2 id=&#34;office-hours&#34;&gt;Office hours:&lt;/h2&gt;
+
+&lt;p&gt;Monday and Wednesday&lt;br /&gt;
+10:00am - 11:30am
+CW 308.3.1&lt;br /&gt;
+or &lt;a href=&#34;maiolto:dossantos@cs.uregina.ca&#34; target=&#34;_blank&#34;&gt;by appointment&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;class-important-links&#34;&gt;Class Important Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://urcourses.uregina.ca/login/index.php&#34; target=&#34;_blank&#34;&gt;URCourses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.uregina.ca/UndergradProgram/integrity.html&#34; target=&#34;_blank&#34;&gt;UofR Academic Integrity Info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+
+&lt;p&gt;TBA&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
