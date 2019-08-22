@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jhonatan Souza Oliveira | DOS SANTOS</title>
+    <link>https://andreeds.github.io/authors/jhonatan-souza-oliveira/</link>
+      <atom:link href="https://andreeds.github.io/authors/jhonatan-souza-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jhonatan Souza Oliveira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <title>Jhonatan Souza Oliveira</title>
+      <link>https://andreeds.github.io/authors/jhonatan-souza-oliveira/</link>
+    </image>
+    
+    <item>
+      <title>On Finding Relevant Variables in Discrete Bayesian Network Inference</title>
+      <link>https://andreeds.github.io/publication/butz-2017-finding/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining good elimination orderings with darwinian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2015-determining/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2015-determining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

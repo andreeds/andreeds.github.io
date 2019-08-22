@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.S. Oliveira | DOS SANTOS</title>
+    <link>https://andreeds.github.io/authors/j.s.-oliveira/</link>
+      <atom:link href="https://andreeds.github.io/authors/j.s.-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.S. Oliveira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <title>J.S. Oliveira</title>
+      <link>https://andreeds.github.io/authors/j.s.-oliveira/</link>
+    </image>
+    
+    <item>
+      <title>Darwinian Networks</title>
+      <link>https://andreeds.github.io/publication/butz-2015-darwinian/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2015-darwinian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

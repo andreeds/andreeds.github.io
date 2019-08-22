@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cory Butz | DOS SANTOS</title>
+    <link>https://andreeds.github.io/authors/cory-butz/</link>
+      <atom:link href="https://andreeds.github.io/authors/cory-butz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cory Butz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <title>Cory Butz</title>
+      <link>https://andreeds.github.io/authors/cory-butz/</link>
+    </image>
+    
+    <item>
+      <title>On the Tree Structure of Deep Convolutional Sum-Product Networks</title>
+      <link>https://andreeds.github.io/publication/butz-2019-tree/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2019-tree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

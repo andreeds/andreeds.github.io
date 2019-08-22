@@ -5,7 +5,7 @@
     <link>https://andreeds.github.io/publication_types/2/</link>
       <atom:link href="https://andreeds.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreeds.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,24 +13,35 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://andreeds.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>An empirical study of testing independencies in Bayesian networks using rp-separation</title>
+      <link>https://andreeds.github.io/publication/butz-2018-empirical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2018-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a simple method for testing independencies in Bayesian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2017-simple/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Darwinian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2017-darwinian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-darwinian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal and evaluation of a selection procedure for cast parts</title>
+      <link>https://andreeds.github.io/publication/dos-2017-proposal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/dos-2017-proposal/</guid>
+      <description></description>
     </item>
     
   </channel>
