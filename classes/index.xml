@@ -37,7 +37,10 @@ or &lt;a href=&#34;maiolto:dossantos@cs.uregina.ca&#34; target=&#34;_blank&#34;&
 &lt;h2 id=&#34;class-important-links&#34;&gt;Class Important Links&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;
+&lt;!-- * &lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vSZEabRmVg-iEMIgkv3CA2Ii_rkOtK0CfQ_582StdTc6x6kN_BbteeFV7XTwassXimpJ_YgjeFe7IYt/pub&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://urcourses.uregina.ca/login/index.php&#34; target=&#34;_blank&#34;&gt;URCourses&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cs.uregina.ca/UndergradProgram/integrity.html&#34; target=&#34;_blank&#34;&gt;UofR Academic Integrity Info&lt;/a&gt;
 &lt;br&gt;&lt;br&gt;&lt;/li&gt;
