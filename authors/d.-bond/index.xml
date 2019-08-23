@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Bond | DOS SANTOS</title>
+    <link>https://andreeds.github.io/authors/d.-bond/</link>
+      <atom:link href="https://andreeds.github.io/authors/d.-bond/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Bond</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <title>D. Bond</title>
+      <link>https://andreeds.github.io/authors/d.-bond/</link>
+    </image>
+    
+    <item>
+      <title>Proposal and evaluation of a selection procedure for cast parts</title>
+      <link>https://andreeds.github.io/publication/dos-2017-proposal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/dos-2017-proposal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://andreeds.github.io/</link>
       <atom:link href="https://andreeds.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>DOS SANTOS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreeds.github.io/img/icon-192.png</url>
       <title>DOS SANTOS</title>
       <link>https://andreeds.github.io/</link>
     </image>
+    
+    <item>
+      <title>_publications</title>
+      <link>https://andreeds.github.io/_publication/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/_publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

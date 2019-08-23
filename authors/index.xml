@@ -5,7 +5,7 @@
     <link>https://andreeds.github.io/authors/</link>
       <atom:link href="https://andreeds.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreeds.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,161 +13,25 @@
     </image>
     
     <item>
-      <title>Anders L Madsen</title>
-      <link>https://andreeds.github.io/authors/anders-l-madsen/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/anders-l-madsen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andre Lobo Teixeira</title>
-      <link>https://andreeds.github.io/authors/andre-lobo-teixeira/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/andre-lobo-teixeira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>André E dos Santos</title>
-      <link>https://andreeds.github.io/authors/andre-e-dos-santos/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/andre-e-dos-santos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>André L Teixeira</title>
-      <link>https://andreeds.github.io/authors/andre-l-teixeira/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/andre-l-teixeira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cory Butz</title>
-      <link>https://andreeds.github.io/authors/cory-butz/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/cory-butz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cory J Butz</title>
-      <link>https://andreeds.github.io/authors/cory-j-butz/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/cory-j-butz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jhonatan Oliveira</title>
-      <link>https://andreeds.github.io/authors/jhonatan-oliveira/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/jhonatan-oliveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jhonatan S Oliveira</title>
-      <link>https://andreeds.github.io/authors/jhonatan-s-oliveira/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/jhonatan-s-oliveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christophe Gonzales</title>
-      <link>https://andreeds.github.io/authors/christophe-gonzales/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/christophe-gonzales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Stavrinides</title>
-      <link>https://andreeds.github.io/authors/john-stavrinides/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/john-stavrinides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anderson Tonello Bringhenti</title>
-      <link>https://andreeds.github.io/authors/anderson-tonello-bringhenti/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/anderson-tonello-bringhenti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>André Evaristo dos Santos</title>
-      <link>https://andreeds.github.io/authors/andre-evaristo-dos-santos/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/andre-evaristo-dos-santos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cory James Butz</title>
-      <link>https://andreeds.github.io/authors/cory-james-butz/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/cory-james-butz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Danielle Bond</title>
-      <link>https://andreeds.github.io/authors/danielle-bond/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/danielle-bond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guilherme Ourique Verran</title>
-      <link>https://andreeds.github.io/authors/guilherme-ourique-verran/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/guilherme-ourique-verran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jhonatan Souza Oliveira</title>
-      <link>https://andreeds.github.io/authors/jhonatan-souza-oliveira/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/jhonatan-souza-oliveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juliana Ilha Zimmermann</title>
-      <link>https://andreeds.github.io/authors/juliana-ilha-zimmermann/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/juliana-ilha-zimmermann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Régis Kovacs Scalice</title>
-      <link>https://andreeds.github.io/authors/regis-kovacs-scalice/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/regis-kovacs-scalice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A.E. dos Santos</title>
       <link>https://andreeds.github.io/authors/a.e.-dos-santos/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://andreeds.github.io/authors/a.e.-dos-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.L. Teixeira</title>
+      <link>https://andreeds.github.io/authors/a.l.-teixeira/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/a.l.-teixeira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C.J. Butz</title>
       <link>https://andreeds.github.io/authors/c.j.-butz/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://andreeds.github.io/authors/c.j.-butz/</guid>
       <description></description>
     </item>
@@ -175,8 +39,104 @@
     <item>
       <title>J.S. Oliveira</title>
       <link>https://andreeds.github.io/authors/j.s.-oliveira/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://andreeds.github.io/authors/j.s.-oliveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.E dos Santos</title>
+      <link>https://andreeds.github.io/authors/a.e-dos-santos/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/a.e-dos-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.L. Madsen</title>
+      <link>https://andreeds.github.io/authors/a.l.-madsen/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/a.l.-madsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Kalra</title>
+      <link>https://andreeds.github.io/authors/a.-kalra/</link>
+      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/a.-kalra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Poupart</title>
+      <link>https://andreeds.github.io/authors/p.-poupart/</link>
+      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/p.-poupart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Gonzales</title>
+      <link>https://andreeds.github.io/authors/c.-gonzales/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/c.-gonzales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Stavrinides</title>
+      <link>https://andreeds.github.io/authors/j.-stavrinides/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/j.-stavrinides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.T. Bringhenti</title>
+      <link>https://andreeds.github.io/authors/a.t.-bringhenti/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/a.t.-bringhenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Bond</title>
+      <link>https://andreeds.github.io/authors/d.-bond/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/d.-bond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G.O. Verran</title>
+      <link>https://andreeds.github.io/authors/g.o.-verran/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/g.o.-verran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.I. Zimmermann</title>
+      <link>https://andreeds.github.io/authors/j.i.-zimmermann/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/j.i.-zimmermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.L. Scalice</title>
+      <link>https://andreeds.github.io/authors/r.l.-scalice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/r.l.-scalice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.E.S dos Santos</title>
+      <link>https://andreeds.github.io/authors/a.e.s-dos-santos/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/authors/a.e.s-dos-santos/</guid>
       <description></description>
     </item>
     
