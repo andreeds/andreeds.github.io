@@ -47,7 +47,16 @@ CL 317
 
 &lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;TBA&lt;/em&gt;&lt;/p&gt;
+&lt;!-- &lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vSZEabRmVg-iEMIgkv3CA2Ii_rkOtK0CfQ_582StdTc6x6kN_BbteeFV7XTwassXimpJ_YgjeFe7IYt/pub&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;  --&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our class starts this &lt;strong&gt;Thursday, Sept 5th, 4:30 pm, Classroom Building room 317.&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
