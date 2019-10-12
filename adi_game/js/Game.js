@@ -257,7 +257,7 @@ Platform.Game.prototype = {
     // This should not be here, I know.
     this.game.debug.text('Score:' + this.score, 172, 14, "#fff", "Courier");
 
-    if (gameOver) this.game.debug.text('Don\'t hit the lava!', 50, 100, "#FFA000", "Courier");
+    if (gameOver) this.game.debug.text('Keep it Real! #330', 50, 100, "#FFA000", "Courier");
     if (getAllGems) {
       this.game.debug.text('HAPPY B-DAY!', 35, 50, "#fff", "16px Courier");
       this.game.debug.text('I <3 U -- babe', 50, 60, "#fff", "11px Courier");
