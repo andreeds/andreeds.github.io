@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>DOS SANTOS</title>
     <link>https://andreeds.github.io/</link>
       <atom:link href="https://andreeds.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>DOS SANTOS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreeds.github.io/img/icon-192.png</url>
-      <title>Academic</title>
+      <title>DOS SANTOS</title>
       <link>https://andreeds.github.io/</link>
     </image>
+    
+    <item>
+      <title>_publications</title>
+      <link>https://andreeds.github.io/_publication/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/_publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>https://andreeds.github.io/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/classes/</guid>
       <description></description>
     </item>
     
