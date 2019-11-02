@@ -1,0 +1,3 @@
+[submodule "dns-lab"]
+	path = dns-lab
+	url = https://andreeds@gitlab.com/darwiniannetworks/dns-lab.git
