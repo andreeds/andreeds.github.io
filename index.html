@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -37,8 +37,6 @@
 
 
   
-
-  
   
   
   <meta name="theme-color" content="#3f51b5">
@@ -50,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -62,13 +60,15 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -76,33 +76,59 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.3072054fc61fe865aa34bcb366de141d.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60087433-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-60087433-1', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-60087433-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="DOS SANTOS">
@@ -132,6 +158,25 @@
   
     <meta property="og:updated_time" content="2019-08-21T00:00:00&#43;00:00">
   
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://andreeds.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://andreeds.github.io/"
+}
+</script>
+
+
+  
+
 
   
 
@@ -385,6 +430,15 @@
   
 
 
+
+
+
+
+
+
+
+
+
 <span class="js-widget-page d-none"></span>
 
 
@@ -560,9 +614,7 @@
     
 
     <p>Ph.D. student in Computer Science studying Artificial Intelligence at the University of Regina. My research interest involves Insudtry 4.0, Deep Learning and Probabilistic Graphical Models, including Bayesian networks, Sum-Product networks, and Join Tree Propagation.</p>
-
 <!-- With the knowledge already acquired in academic life, ally with his creative, hardworking, fast learner characteristics, has demonstrated efficiency in project management and assessment and control of manufacturing processes, always with a focus on the culture of excellence, teamwork and problem-solving. -->
-
 <!-- Excellence in academic life, established through the awards and scholarships. Interested in Artificial Intelligence, Industry 4.0, and Applied Statistic for Engineering, in order to improve the quality aspects of the industry.  -->
 
 
@@ -593,7 +645,7 @@
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Computer Science, 2019 <i style='color: rgb(192, 192, 241922)'>expected</i></p>
+              <p class="course">PhD in Computer Science, Winter 2020</p>
               <p class="institution">University of Regina</p>
             </div>
           </li>
@@ -602,15 +654,15 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">MSc in Computer Science, 2016</p>
-              <p class="institution">University of Regina</p>
+              <p class="institution"></p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">BSc in Industrial Engineering<i style='color: rgb(192, 192, 241922)'>*</i>, 2014</p>
-              <p class="institution">University of Santa Catarina State</p>
+              <p class="course">BSc in Industrial Engineering, 2014</p>
+              <p class="institution"></p>
             </div>
           </li>
           
@@ -711,7 +763,7 @@
 
     <!-- <div class="alert alert-note">
   <div>
-    Quickly discover relevant content by <a href="https://andreeds.github.io/publication/" target="_blank">filtering publications</a>.
+    Quickly discover relevant content by <a href="https://andreeds.github.io/publication/">filtering publications</a>.
   </div>
 </div>
  -->
@@ -734,8 +786,8 @@
 
   </span>
   (2019).
-   
-  <a href="/publication/butz-2019-deep/" itemprop="name">Deep Convolutional Sum-Product Networks</a>.
+  
+  <a itemprop="name">Deep Convolutional Sum-Product Networks</a>.
 
   <em>Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)</em>.
   
@@ -810,8 +862,8 @@
 
   </span>
   (2019).
-   
-  <a href="/publication/madsen-2019-solving/" itemprop="name">Solving Influence Diagrams with Simple Propagation</a>.
+  
+  <a itemprop="name">Solving Influence Diagrams with Simple Propagation</a>.
 
   <em>Thirty-second Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -876,8 +928,8 @@
 
   </span>
   (2019).
-   
-  <a href="/publication/butz-2019-tree/" itemprop="name">On the Tree Structure of Deep Convolutional Sum-Product Networks</a>.
+  
+  <a itemprop="name">On the Tree Structure of Deep Convolutional Sum-Product Networks</a>.
 
   <em>Thirty-Second International Florida Artificial Intelligence Research Society Conference (FLAIRS)</em>.
   
@@ -954,8 +1006,8 @@
 
   </span>
   (2019).
-   
-  <a href="/publication/butz-2019-exploiting/" itemprop="name">Exploiting Symmetry of Independence in d-Separation</a>.
+  
+  <a itemprop="name">Exploiting Symmetry of Independence in d-Separation</a>.
 
   <em>Thirty-second Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -1020,8 +1072,8 @@
 
   </span>
   (2018).
-   
-  <a href="/publication/butz_poupart_pgm_2018/" itemprop="name">An Empirical Study of Methods for SPN Learning and Inference</a>.
+  
+  <a itemprop="name">An Empirical Study of Methods for SPN Learning and Inference</a>.
 
   <em>Ninth International Conference on Probabilistic Graphical Models (PGM)</em>.
   
@@ -1098,8 +1150,8 @@
 
   </span>
   (2018).
-   
-  <a href="/publication/madsen-2018-simple/" itemprop="name">Simple Propagation with Arc-Reversal in Bayesian Networks</a>.
+  
+  <a itemprop="name">Simple Propagation with Arc-Reversal in Bayesian Networks</a>.
 
   <em>Ninth International Conference on Probabilistic Graphical Models (PGM)</em>.
   
@@ -1176,8 +1228,8 @@
 
   </span>
   (2018).
-   
-  <a href="/publication/butz-2018-efficient/" itemprop="name">Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models</a>.
+  
+  <a itemprop="name">Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models</a>.
 
   <em>Thirty-first International Conference on Industrial, Engineering &amp; Other Applications of Applied Intelligent Systems</em>.
   
@@ -1242,8 +1294,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/oliveira-2017-resolving/" itemprop="name">Resolving Inconsistencies of Scope Interpretations in Sum-Product Networks</a>.
+  
+  <a itemprop="name">Resolving Inconsistencies of Scope Interpretations in Sum-Product Networks</a>.
 
   <em>Thirtieth Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -1308,8 +1360,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/dos-2017-converting/" itemprop="name">On Converting Sum-Product Networks into Bayesian Networks</a>.
+  
+  <a itemprop="name">On Converting Sum-Product Networks into Bayesian Networks</a>.
 
   <em>Thirtieth Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -1374,8 +1426,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/butz-2017-finding/" itemprop="name">On Finding Relevant Variables in Discrete Bayesian Network Inference</a>.
+  
+  <a itemprop="name">On Finding Relevant Variables in Discrete Bayesian Network Inference</a>.
 
   <em>Thirtieth International Florida Artificial Intelligence Research Society Conference (FLAIRS)</em>.
   
@@ -1452,8 +1504,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/butz-2017-learning/" itemprop="name">On learning the structure of sum-product networks</a>.
+  
+  <a itemprop="name">On learning the structure of sum-product networks</a>.
 
   <em>2017 IEEE Symposium Series on Computational Intelligence (SSCI)</em>.
   
@@ -1530,8 +1582,8 @@
 
   </span>
   (2016).
-   
-  <a href="/publication/butz-2016-simple/" itemprop="name">A Simple Method for Testing Independencies in Bayesian Networks</a>.
+  
+  <a itemprop="name">A Simple Method for Testing Independencies in Bayesian Networks</a>.
 
   <em>Twenty-ninth Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -1592,8 +1644,8 @@
 
   </span>
   (2016).
-   
-  <a href="/publication/butz-2016-bayesian/" itemprop="name">Bayesian Network Inference with Simple Propagation</a>.
+  
+  <a itemprop="name">Bayesian Network Inference with Simple Propagation</a>.
 
   <em>Twenty-ninth International Florida Artificial Intelligence Research Society Conference (FLAIRS)</em>.
   
@@ -1654,8 +1706,8 @@
 
   </span>
   (2016).
-   
-  <a href="/publication/madsen-2016-tree/" itemprop="name">On Tree Structures Used by Simple Propagation</a>.
+  
+  <a itemprop="name">On Tree Structures Used by Simple Propagation</a>.
 
   <em>Twenty-ninth Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -1720,8 +1772,8 @@
 
   </span>
   (2016).
-   
-  <a href="/publication/butz-2016-relevant/" itemprop="name">Relevant path separation: A faster method for testing independencies in bayesian networks</a>.
+  
+  <a itemprop="name">Relevant path separation: A faster method for testing independencies in bayesian networks</a>.
 
   <em>Eighth International Conference on Probabilistic Graphical Models (PGM)</em>.
   
@@ -1798,8 +1850,8 @@
 
   </span>
   (2016).
-   
-  <a href="/publication/butz-2016-testing/" itemprop="name">Testing Independencies in Bayesian Networks with i-Separation</a>.
+  
+  <a itemprop="name">Testing Independencies in Bayesian Networks with i-Separation</a>.
 
   <em>Twenty-ninth International Florida Artificial Intelligence Research Society Conference (FLAIRS)</em>.
   
@@ -1860,8 +1912,8 @@
 
   </span>
   (2015).
-   
-  <a href="/publication/butz-2015-darwinian/" itemprop="name">Darwinian Networks</a>.
+  
+  <a itemprop="name">Darwinian Networks</a>.
 
   <em>Twenty-eighth Canadian Conference on Artificial Intelligence (AI)</em>.
   
@@ -1922,8 +1974,8 @@
 
   </span>
   (2015).
-   
-  <a href="/publication/butz-2015-determining/" itemprop="name">Determining good elimination orderings with darwinian networks</a>.
+  
+  <a itemprop="name">Determining good elimination orderings with darwinian networks</a>.
 
   <em>Twenty-eighth International Florida Artificial Intelligence Research Society Conference (FLAIRS)</em>.
   
@@ -2079,7 +2131,7 @@
 
     <!-- <div class="alert alert-note">
   <div>
-    Quickly discover relevant content by <a href="https://andreeds.github.io/publication/" target="_blank">filtering publications</a>.
+    Quickly discover relevant content by <a href="https://andreeds.github.io/publication/">filtering publications</a>.
   </div>
 </div>
  -->
@@ -2102,8 +2154,8 @@
 
   </span>
   (2018).
-   
-  <a href="/publication/butz_ijar_2018/" itemprop="name">An Empirical Study of Bayesian Network Inference with Simple Propagation</a>.
+  
+  <a itemprop="name">An Empirical Study of Bayesian Network Inference with Simple Propagation</a>.
 
   <em>International Journal of Approximate Reasoning</em>.
   
@@ -2188,8 +2240,8 @@
 
   </span>
   (2018).
-   
-  <a href="/publication/butz-2018-empirical/" itemprop="name">An empirical study of testing independencies in Bayesian networks using rp-separation</a>.
+  
+  <a itemprop="name">An empirical study of testing independencies in Bayesian networks using rp-separation</a>.
 
   <em>International Journal of Approximate Reasoning</em>.
   
@@ -2266,8 +2318,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/butz-2017-simple/" itemprop="name">On a simple method for testing independencies in Bayesian networks</a>.
+  
+  <a itemprop="name">On a simple method for testing independencies in Bayesian networks</a>.
 
   <em>Computational Intelligence</em>.
   
@@ -2332,8 +2384,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/butz-2017-darwinian/" itemprop="name">On Darwinian networks</a>.
+  
+  <a itemprop="name">On Darwinian networks</a>.
 
   <em>Computational Intelligence</em>.
   
@@ -2398,8 +2450,8 @@
 
   </span>
   (2017).
-   
-  <a href="/publication/dos-2017-proposal/" itemprop="name">Proposal and evaluation of a selection procedure for cast parts</a>.
+  
+  <a itemprop="name">Proposal and evaluation of a selection procedure for cast parts</a>.
 
   <em>Journal of the Brazilian Society of Mechanical Sciences and Engineering</em>.
   
@@ -2522,7 +2574,7 @@
     
     ;">
     <div class="container" style="text-align: right;">
-        <h1 class="hero-title" itemprop="headline">
+        <h1 class="hero-title">
           
         </h1>
 
@@ -2535,7 +2587,7 @@
           
         
         <p>
-          <a href="https://andreeds.github.io/dns_lab/index.html" class="btn btn-light btn-lg"><i class="fas fa-play" style="padding-right: 10px;"></i>Play</a>
+          <a href="DNS/index.html" class="btn btn-light btn-lg"><i class="fas fa-play" style="padding-right: 10px;"></i>Play</a>
         </p>
         
       </div>
@@ -2552,7 +2604,7 @@
     
     ;">
     <div class="container" style="text-align: right;">
-        <h1 class="hero-title" itemprop="headline">
+        <h1 class="hero-title">
           
         </h1>
 
@@ -2565,7 +2617,7 @@
           
         
         <p>
-          <a href="https://www.facebook.com/uofrjiujitsu/" class="btn btn-light btn-lg">UofR Jiu-Jitsu Club</a>
+          <a href="http://uofrjiujitsu.com/" class="btn btn-light btn-lg">UofR Jiu-Jitsu Club</a>
         </p>
         
       </div>
@@ -2582,7 +2634,7 @@
     
     ;">
     <div class="container" style="text-align: right;">
-        <h1 class="hero-title" itemprop="headline">
+        <h1 class="hero-title">
           
         </h1>
 
@@ -2653,6 +2705,7 @@
 
 
 
+
 <div class="row contact-widget">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Contact</h1>
@@ -2663,28 +2716,38 @@
 
     
 
-    <ul class="fa-ul" itemscope>
+    <ul class="fa-ul">
 
       
       <li>
         <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-        <span id="person-email" itemprop="email"><a href="mailto:dossantos@uregina.ca">dossantos@uregina.ca</a></span>
+        <span id="person-email"><a href="mailto:dossantos@uregina.ca">dossantos@uregina.ca</a></span>
       </li>
       
 
       
 
       
-      <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">Room 218, Laboratory Building, University of Regina, SK, S4S 0A2, Canada</span>
-      </li>
+      
+        
+        
+        
+        
+        
+        
+        
+        <li>
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+          <span id="person-address">Room 218, Laboratory Building, Regina, SK, S4S 0A2, Canada</span>
+        </li>
+      
+
       
 
       
       <li>
         <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span><a href="classes/cs310/" target="_blank">Office Hours</a></span>
+        <span><a href="classes/cs310/">Office Hours</a></span>
       </li>
       
 
@@ -2716,15 +2779,15 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
@@ -2733,6 +2796,8 @@
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -2742,13 +2807,13 @@
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -2802,7 +2867,7 @@
     
     
     
-    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -2812,12 +2877,13 @@
 
 
   
+  
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -2825,7 +2891,7 @@
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>

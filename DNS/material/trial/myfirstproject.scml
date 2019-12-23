@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r10">
+    <folder id="0" name="head">
+        <file id="0" name="head/p_head_idle.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="1" name="head/p_head_blink_0.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="2" name="head/p_head_blink_1.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="3" name="head/p_head_concern_blink_0.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="4" name="head/p_head_concern_blink_1.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="5" name="head/p_head_concern.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="6" name="head/p_head_die.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="7" name="head/p_head_hurt.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="8" name="head/p_head_idle_blink_0.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="9" name="head/p_head_idle_blink_1.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="10" name="head/p_head_push.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="11" name="head/p_head_turn_0.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+        <file id="12" name="head/p_head_walk.png" width="212" height="214" pivot_x="0.79717" pivot_y="0.649533"/>
+    </folder>
+    <entity id="0" name="grey_guy">
+        <animation id="0" name="idle" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="p_head_idle">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="25" y="110" angle="280.451633"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

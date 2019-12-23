@@ -13,51 +13,277 @@
     </image>
     
     <item>
-      <title>_publications</title>
-      <link>https://andreeds.github.io/_publication/</link>
+      <title>Deep Convolutional Sum-Product Networks</title>
+      <link>https://andreeds.github.io/publication/butz-2019-deep/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2019-deep/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Influence Diagrams with Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/madsen-2019-solving/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/madsen-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Tree Structure of Deep Convolutional Sum-Product Networks</title>
+      <link>https://andreeds.github.io/publication/butz-2019-tree/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2019-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Symmetry of Independence in d-Separation</title>
+      <link>https://andreeds.github.io/publication/butz-2019-exploiting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2019-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Bayesian Network Inference with Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/butz_ijar_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz_ijar_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Methods for SPN Learning and Inference</title>
+      <link>https://andreeds.github.io/publication/butz_poupart_pgm_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz_poupart_pgm_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical study of testing independencies in Bayesian networks using rp-separation</title>
+      <link>https://andreeds.github.io/publication/butz-2018-empirical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2018-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models</title>
+      <link>https://andreeds.github.io/publication/butz-2018-efficient/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2018-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Propagation with Arc-Reversal in Bayesian Networks</title>
+      <link>https://andreeds.github.io/publication/madsen-2018-simple/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/madsen-2018-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a simple method for testing independencies in Bayesian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2017-simple/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Converting Sum-Product Networks into Bayesian Networks</title>
+      <link>https://andreeds.github.io/publication/dos-2017-converting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/dos-2017-converting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Darwinian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2017-darwinian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-darwinian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Finding Relevant Variables in Discrete Bayesian Network Inference</title>
+      <link>https://andreeds.github.io/publication/butz-2017-finding/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On learning the structure of sum-product networks</title>
+      <link>https://andreeds.github.io/publication/butz-2017-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2017-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal and evaluation of a selection procedure for cast parts</title>
+      <link>https://andreeds.github.io/publication/dos-2017-proposal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/dos-2017-proposal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving Inconsistencies of Scope Interpretations in Sum-Product Networks</title>
+      <link>https://andreeds.github.io/publication/oliveira-2017-resolving/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/oliveira-2017-resolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Method for Testing Independencies in Bayesian Networks</title>
+      <link>https://andreeds.github.io/publication/butz-2016-simple/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Network Inference with Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/butz-2016-bayesian/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Tree Structures Used by Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/madsen-2016-tree/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/madsen-2016-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relevant path separation: A faster method for testing independencies in bayesian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2016-relevant/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-relevant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Independencies in Bayesian Networks with i-Separation</title>
+      <link>https://andreeds.github.io/publication/butz-2016-testing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darwinian Networks</title>
+      <link>https://andreeds.github.io/_publication/butz-2015-darwinian/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/_publication/</guid>
+      <guid>https://andreeds.github.io/_publication/butz-2015-darwinian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <title>Darwinian Networks</title>
+      <link>https://andreeds.github.io/publication/butz-2015-darwinian/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2015-darwinian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Classes</title>
-      <link>https://andreeds.github.io/classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/classes/</guid>
+      <title>Determining good elimination orderings with darwinian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2015-determining/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2015-determining/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://andreeds.github.io/post/</link>
+      <title>CS310 -  Discrete Computational Structures</title>
+      <link>https://andreeds.github.io/classes/cs310/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://andreeds.github.io/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://andreeds.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/talk/</guid>
-      <description></description>
+      <guid>https://andreeds.github.io/classes/cs310/</guid>
+      <description>&lt;h2 id=&#34;class-information&#34;&gt;Class Information:&lt;/h2&gt;
+&lt;p&gt;Tuesday and Thursday&lt;br&gt;
+4:30pm - 5:45pm&lt;br&gt;
+CL 317&lt;/p&gt;
+&lt;h2 id=&#34;office-hours1&#34;&gt;Office Hours&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/h2&gt;
+&lt;p&gt;Monday and Wednesday&lt;br&gt;
+10:00am - 11:30am&lt;br&gt;
+&lt;b&gt;CW 308.3.1&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;class-important-links&#34;&gt;Class Important Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://urcourses.uregina.ca/login/index.php&#34;&gt;URCourses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.uregina.ca/UndergradProgram/integrity.html&#34;&gt;UofR Academic Integrity Info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * &lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vSZEabRmVg-iEMIgkv3CA2Ii_rkOtK0CfQ_582StdTc6x6kN_BbteeFV7XTwassXimpJ_YgjeFe7IYt/pub&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;
+&lt;h2 id=&#34;assignment-materials&#34;&gt;Assignment Materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1ZEIgK6HcDOJdlYzzOb_hYMJNDgPd-kABHDvl12_rnD8/edit?usp=sharing&#34;&gt;Overleaf &amp;amp; LaTex InstructionsURL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht&#34;&gt;CS310-002 Assignment TemplateURL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/0.pdf&#34; target=&#34;_blank&#34;&gt;0 - Welcome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/1a.pdf&#34; target=&#34;_blank&#34;&gt;1a - The Foundations: Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/1b.pdf&#34; target=&#34;_blank&#34;&gt;1b - The Foundations: Rules of Inference &amp;amp; Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/2a.pdf&#34; target=&#34;_blank&#34;&gt;2a - Basic Structures: Sets &amp;amp; Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/2b.pdf&#34; target=&#34;_blank&#34;&gt;2b - Basic Structures: Sequences, Sums, and Cardinality of Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/3.pdf&#34; target=&#34;_blank&#34;&gt;3 - Algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/4.pdf&#34; target=&#34;_blank&#34;&gt;4 - Induction and Recursion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/5.pdf&#34; target=&#34;_blank&#34;&gt;5 - Counting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/6a.pdf&#34; target=&#34;_blank&#34;&gt;6a - Discrete Probability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/6b.pdf&#34; target=&#34;_blank&#34;&gt;6b - Discrete Probability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/7a.pdf&#34; target=&#34;_blank&#34;&gt;7a - Advanced Counting Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/7b.pdf&#34; target=&#34;_blank&#34;&gt;7b - Advanced Counting Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/8.pdf&#34; target=&#34;_blank&#34;&gt;8 - Relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/9a.pdf&#34; target=&#34;_blank&#34;&gt;9a - Graphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/9b.pdf&#34; target=&#34;_blank&#34;&gt;9b - Graphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/9c.pdf&#34; target=&#34;_blank&#34;&gt;9c - Graphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/10.pdf&#34; target=&#34;_blank&#34;&gt;10 - Trees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/slides/11.pdf&#34; target=&#34;_blank&#34;&gt;11 - Extra: PGMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;!-- &lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vSZEabRmVg-iEMIgkv3CA2Ii_rkOtK0CfQ_582StdTc6x6kN_BbteeFV7XTwassXimpJ_YgjeFe7IYt/pub&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;  --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Our class starts this &lt;strong&gt;Thursday, Sept 5th, 4:30 pm, Classroom Building room 317.&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Or &lt;a href=&#34;maiolto:dossantos@cs.uregina.ca&#34;&gt;by appointment&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
   </channel>
