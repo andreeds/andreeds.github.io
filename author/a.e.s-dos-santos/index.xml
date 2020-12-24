@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.E.S dos Santos | DOS SANTOS</title>
+    <link>https://andreeds.github.io/author/a.e.s-dos-santos/</link>
+      <atom:link href="https://andreeds.github.io/author/a.e.s-dos-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.E.S dos Santos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreeds.github.io/images/icon_hucfdec142f0d2e853a60fdfd42dea6163_483_512x512_fill_lanczos_center_2.png</url>
+      <title>A.E.S dos Santos</title>
+      <link>https://andreeds.github.io/author/a.e.s-dos-santos/</link>
+    </image>
+    
+    <item>
+      <title>Relevant path separation: A faster method for testing independencies in bayesian networks</title>
+      <link>https://andreeds.github.io/publication/butz-2016-relevant/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-relevant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

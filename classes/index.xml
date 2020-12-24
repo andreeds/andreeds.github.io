@@ -5,9 +5,9 @@
     <link>https://andreeds.github.io/classes/</link>
       <atom:link href="https://andreeds.github.io/classes/index.xml" rel="self" type="application/rss+xml" />
     <description>Classes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <url>https://andreeds.github.io/images/icon_hucfdec142f0d2e853a60fdfd42dea6163_483_512x512_fill_lanczos_center_2.png</url>
       <title>Classes</title>
       <link>https://andreeds.github.io/classes/</link>
     </image>
@@ -36,16 +36,16 @@ CL 317&lt;/p&gt;
 &lt;h2 id=&#34;class-important-links&#34;&gt;Class Important Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andreeds.github.io/CS310/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://urcourses.uregina.ca/login/index.php&#34;&gt;URCourses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.uregina.ca/UndergradProgram/integrity.html&#34;&gt;UofR Academic Integrity Info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://urcourses.uregina.ca/login/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URCourses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.uregina.ca/UndergradProgram/integrity.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UofR Academic Integrity Info&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- * &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vSZEabRmVg-iEMIgkv3CA2Ii_rkOtK0CfQ_582StdTc6x6kN_BbteeFV7XTwassXimpJ_YgjeFe7IYt/pub&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt; --&gt;
 &lt;h2 id=&#34;assignment-materials&#34;&gt;Assignment Materials&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1ZEIgK6HcDOJdlYzzOb_hYMJNDgPd-kABHDvl12_rnD8/edit?usp=sharing&#34;&gt;Overleaf &amp;amp; LaTex InstructionsURL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht&#34;&gt;CS310-002 Assignment TemplateURL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1ZEIgK6HcDOJdlYzzOb_hYMJNDgPd-kABHDvl12_rnD8/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf &amp;amp; LaTex InstructionsURL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS310-002 Assignment TemplateURL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;ul&gt;
@@ -103,15 +103,23 @@ CL 317&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andreeds.github.io/classes/teaching/</guid>
       <description>&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
-&lt;h2 id=&#34;winter&#34;&gt;Winter&lt;/h2&gt;
+&lt;h2 id=&#34;summer&#34;&gt;Summer&lt;/h2&gt;
+&lt;!-- * [CS340 Advanced Data Structures and Algorithm Design ](../cs340) --&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../cs115&#34;&gt;CS115 Object-Oriented Design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../cs330&#34;&gt;CS330 Introduction to Operating Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS340&lt;/strong&gt; Advanced Data Structures and Algorithm Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;winter&#34;&gt;Winter&lt;/h2&gt;
+&lt;!-- * [CS115 Object-Oriented Design](../cs115)
+* [CS330 Introduction to Operating Systems](../cs330) --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CS115&lt;/strong&gt; Object-Oriented Design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS330&lt;/strong&gt; Introduction to Operating Systems&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 &lt;h2 id=&#34;fall&#34;&gt;Fall&lt;/h2&gt;
+&lt;!-- * [CS310 Discrete Computational Structures](../cs310) --&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../cs310&#34;&gt;CS310 Discrete Computational Structures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS310&lt;/strong&gt; Discrete Computational Structures&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

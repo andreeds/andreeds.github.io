@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.L. Madsen | DOS SANTOS</title>
+    <link>https://andreeds.github.io/author/a.l.-madsen/</link>
+      <atom:link href="https://andreeds.github.io/author/a.l.-madsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.L. Madsen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andreeds.github.io/images/icon_hucfdec142f0d2e853a60fdfd42dea6163_483_512x512_fill_lanczos_center_2.png</url>
+      <title>A.L. Madsen</title>
+      <link>https://andreeds.github.io/author/a.l.-madsen/</link>
+    </image>
+    
+    <item>
+      <title>Solving Influence Diagrams with Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/madsen-2019-solving/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/madsen-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Symmetry of Independence in d-Separation</title>
+      <link>https://andreeds.github.io/publication/butz-2019-exploiting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2019-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Bayesian Network Inference with Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/butz_ijar_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz_ijar_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Propagation with Arc-Reversal in Bayesian Networks</title>
+      <link>https://andreeds.github.io/publication/madsen-2018-simple/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/madsen-2018-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Network Inference with Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/butz-2016-bayesian/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Tree Structures Used by Simple Propagation</title>
+      <link>https://andreeds.github.io/publication/madsen-2016-tree/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/madsen-2016-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Independencies in Bayesian Networks with i-Separation</title>
+      <link>https://andreeds.github.io/publication/butz-2016-testing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andreeds.github.io/publication/butz-2016-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
