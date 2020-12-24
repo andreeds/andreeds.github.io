@@ -1,155 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | DOS SANTOS</title>
+    <title>Authors | Academic</title>
     <link>https://andreeds.github.io/authors/</link>
       <atom:link href="https://andreeds.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://andreeds.github.io/img/icon-192.png</url>
+      <url>https://andreeds.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://andreeds.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title>A.E. dos Santos</title>
-      <link>https://andreeds.github.io/authors/a.e.-dos-santos/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.e.-dos-santos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.L. Teixeira</title>
-      <link>https://andreeds.github.io/authors/a.l.-teixeira/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.l.-teixeira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C.J. Butz</title>
-      <link>https://andreeds.github.io/authors/c.j.-butz/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/c.j.-butz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J.S. Oliveira</title>
-      <link>https://andreeds.github.io/authors/j.s.-oliveira/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/j.s.-oliveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.E dos Santos</title>
-      <link>https://andreeds.github.io/authors/a.e-dos-santos/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.e-dos-santos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.L. Madsen</title>
-      <link>https://andreeds.github.io/authors/a.l.-madsen/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.l.-madsen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Kalra</title>
-      <link>https://andreeds.github.io/authors/a.-kalra/</link>
-      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.-kalra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Poupart</title>
-      <link>https://andreeds.github.io/authors/p.-poupart/</link>
-      <pubDate>Mon, 01 Jan 2018 08:10:10 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/p.-poupart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Gonzales</title>
-      <link>https://andreeds.github.io/authors/c.-gonzales/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/c.-gonzales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Stavrinides</title>
-      <link>https://andreeds.github.io/authors/j.-stavrinides/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/j.-stavrinides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.T. Bringhenti</title>
-      <link>https://andreeds.github.io/authors/a.t.-bringhenti/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.t.-bringhenti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Bond</title>
-      <link>https://andreeds.github.io/authors/d.-bond/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/d.-bond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G.O. Verran</title>
-      <link>https://andreeds.github.io/authors/g.o.-verran/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/g.o.-verran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J.I. Zimmermann</title>
-      <link>https://andreeds.github.io/authors/j.i.-zimmermann/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/j.i.-zimmermann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R.L. Scalice</title>
-      <link>https://andreeds.github.io/authors/r.l.-scalice/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/r.l.-scalice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.E.S dos Santos</title>
-      <link>https://andreeds.github.io/authors/a.e.s-dos-santos/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/a.e.s-dos-santos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreeds.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andreeds.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Ph.D. student in Computer Science studying Artificial Intelligence at the University of Regina. My research interest involves Insudtry 4.0, Deep Learning and Probabilistic Graphical Models, including Bayesian networks, Sum-Product networks, and Join Tree Propagation.&lt;/p&gt;
-&lt;!-- With the knowledge already acquired in academic life, ally with his creative, hardworking, fast learner characteristics, has demonstrated efficiency in project management and assessment and control of manufacturing processes, always with a focus on the culture of excellence, teamwork and problem-solving. --&gt;
-&lt;!-- Excellence in academic life, established through the awards and scholarships. Interested in Artificial Intelligence, Industry 4.0, and Applied Statistic for Engineering, in order to improve the quality aspects of the industry.  --&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
