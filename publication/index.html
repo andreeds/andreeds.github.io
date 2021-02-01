@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 5.0.0-beta.0 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo">
   
 
   
@@ -75,7 +75,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -86,14 +86,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -231,8 +231,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.df41f1ff8ee5e129347be7df2b7c42a8.css">
 
   
 
@@ -259,9 +260,12 @@
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="DOS SANTOS">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hucfdec142f0d2e853a60fdfd42dea6163_483_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hucfdec142f0d2e853a60fdfd42dea6163_483_192x192_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hucfdec142f0d2e853a60fdfd42dea6163_483_180x180_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://andreeds.github.io/publication/">
 
@@ -313,9 +317,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.07ddda2221594614b1c29644fdbadc01.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -324,16 +333,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -345,6 +360,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -362,7 +378,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -606,6 +622,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
 
@@ -826,16 +848,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www2.cs.uregina.ca/~butz/publications/aaai19.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www2.cs.uregina.ca/~butz/publications/aaai19.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2019-deep/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -849,7 +871,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/AAAI19-DCSPN.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/AAAI19-DCSPN.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -910,10 +932,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/madsen-2019-solving/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -927,7 +949,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-18305-9_6" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-18305-9_6" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -984,10 +1006,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2019-tree/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1013,7 +1035,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/view/18236" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/view/18236" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1070,10 +1092,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2019-exploiting/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1087,7 +1109,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-18305-9_4" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-18305-9_4" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1144,10 +1166,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz_poupart_pgm_2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1173,7 +1195,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://proceedings.mlr.press/v72/butz18a.html" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://proceedings.mlr.press/v72/butz18a.html" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1230,10 +1252,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz_ijar_2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1247,7 +1269,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/SP_seminar.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/SP_seminar.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -1267,7 +1289,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0888613X17306205" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0888613X17306205" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1324,10 +1346,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/madsen-2018-simple/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1353,7 +1375,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://proceedings.mlr.press/v72/madsen18a.html" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://proceedings.mlr.press/v72/madsen18a.html" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1410,10 +1432,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2018-efficient/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1427,7 +1449,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-92058-0_30" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-92058-0_30" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1484,10 +1506,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2018-empirical/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1513,7 +1535,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X17306631" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X17306631" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1570,10 +1592,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/oliveira-2017-resolving/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1587,7 +1609,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-57351-9_35" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-57351-9_35" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1644,10 +1666,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dos-2017-proposal/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1661,7 +1683,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s40430-017-0755-3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s40430-017-0755-3" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1718,10 +1740,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2017-learning/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1747,7 +1769,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8280810" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/abstract/document/8280810" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1804,10 +1826,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2017-finding/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1833,7 +1855,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/viewPaper/15405" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/viewPaper/15405" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -1890,10 +1912,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2017-darwinian/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1907,7 +1929,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/coin.12101" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/coin.12101" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1964,10 +1986,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dos-2017-converting/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1981,7 +2003,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-57351-9_37" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-57351-9_37" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2038,10 +2060,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2017-simple/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2055,7 +2077,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/coin.12130" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/coin.12130" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2112,10 +2134,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2016-testing/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2182,10 +2204,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2016-relevant/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2211,7 +2233,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.jmlr.org/proceedings/papers/v52/butz16b.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.jmlr.org/proceedings/papers/v52/butz16b.pdf" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -2268,10 +2290,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/madsen-2016-tree/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2285,7 +2307,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-34111-8_26" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-34111-8_26" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2342,10 +2364,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2016-bayesian/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2412,10 +2434,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2016-simple/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2482,10 +2504,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2015-determining/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2511,7 +2533,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/viewPaper/10351" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/viewPaper/10351" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -2568,10 +2590,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/butz-2015-darwinian/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2611,7 +2633,7 @@
   
 
   <p class="powered-by">
-    © 2020
+    © 2021
   </p>
 
   
@@ -2627,7 +2649,7 @@
     
     
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
     
@@ -2699,42 +2721,18 @@
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -2747,17 +2745,30 @@
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
     
 
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
     
     
     
@@ -2768,11 +2779,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.59419d2c9809de125013c581da371866.js"></script>
+    <script src="/en/js/wowchemy.min.db25f1c075d050faafded35b9462523c.js"></script>
 
     
 
