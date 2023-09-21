@@ -2164,6 +2164,98 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+/* Video (iframe) with Overlay */
+
+.video-container {
+    position: relative;
+	border-radius: 0.35em;
+    max-width: 100%;
+    max-height: 225px; /* Adjust the maximum height as needed */
+    overflow: hidden;
+}
+
+.video-container iframe {
+    width: 100%;
+	border-radius: 0.35em;
+    height: 100%;
+}
+
+/* TEST BEGIN */
+.video {
+    border-radius: 0.35em;
+    border: 0;
+    display: inline-block;
+    position: relative;
+}
+
+.video:before {
+    -moz-transition: opacity 0.2s ease-in-out;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    -ms-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+    /* background: url("images/overlay.png"); You can adjust the background image if needed */
+    border-radius: 0.35em;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.video.thumb {
+    text-align: center;
+}
+
+.video.thumb:after {
+    -moz-transition: opacity 0.2s ease-in-out;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    -ms-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+    border-radius: 0.35em;
+    border: solid 3px rgba(255, 255, 255, 0.5);
+    color: #fff;
+    content: 'Play Video'; /* Change text as needed */
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: 400;
+    left: 50%;
+    line-height: 2.25em;
+    margin: -1.25em 0 0 -3em;
+    opacity: 0;
+    padding: 0 1.5em;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    top: 50%;
+    white-space: nowrap;
+}
+
+.video.thumb:hover:after {
+    opacity: 1.0;
+}
+
+.video.thumb:hover:before {
+    background: url("images/overlay.png"), url("images/overlay.png"); /* You can adjust the background image if needed */
+    opacity: 1.0;
+}
+
+.video iframe {
+    border-radius: 0.35em;
+    display: block;
+    width: 100%;
+    height: 100%; /* Adjust the height as needed */
+}
+
+/* TEST END */
+
+.video .play-button {
+    /* Add styles for the play button here */
+    /* You can customize the play button's appearance */
+}
+
 
 
 	
