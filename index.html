@@ -180,6 +180,12 @@
 		.peek::after { content: "Sneak peek"; position: absolute; top: 10px; left: 10px; font: 600 10px/1 Inter, sans-serif; letter-spacing: .12em; text-transform: uppercase; background: var(--accent); color: var(--navy); padding: 5px 8px; border-radius: 999px; }
 		.has-peek { position: relative; }
 		.has-peek:hover .peek, .has-peek:focus-visible .peek { opacity: 1; transform: translate(-50%, 0) scale(1); }
+		.peek.ts { display: grid; place-items: center; text-align: center; color: #fff; background: radial-gradient(circle at 30% 30%, #7FA6D4, transparent 60%), radial-gradient(circle at 75% 75%, #3C628299, transparent 55%), var(--night); font: 900 30px Archivo, sans-serif; text-transform: uppercase; }
+		.peek.ts small { display: block; font: 500 13px Inter, sans-serif; text-transform: none; color: #DCE7F4; margin-top: 6px; }
+		.eq { display: flex; gap: 4px; justify-content: center; height: 28px; align-items: flex-end; margin-bottom: 10px; }
+		.eq em { width: 5px; background: #fff; border-radius: 3px; animation: eq .9s ease-in-out infinite alternate; }
+		.eq em:nth-child(2) { animation-delay: -.3s; } .eq em:nth-child(3) { animation-delay: -.6s; } .eq em:nth-child(4) { animation-delay: -.15s; } .eq em:nth-child(5) { animation-delay: -.45s; }
+		@keyframes eq { from { height: 20%; } to { height: 100%; } }
 		/* No hover on touch screens: show the peek inside the card instead */
 		@media (hover: none) {
 			.fun a.item { flex-wrap: wrap; }
@@ -439,7 +445,7 @@
 			<h2>Other cool stuff</h2>
 			<div class="grid">
 				<a class="item has-peek" href="https://andreeds.github.io/twosaintsdj/" target="_blank" rel="noopener">
-					<div class="peek"><img src="images/peek/twosaints.jpg" alt="" loading="lazy"></div>
+					<div class="peek ts"><div><div class="eq"><em></em><em></em><em></em><em></em><em></em></div>Two Saints<small>DJ sets &amp; mixes</small></div></div>
 					<i class="fa-solid fa-headphones"></i><div><b>DJ · Two Saints</b><span>EDM &amp; Brazilian music</span></div>
 				</a>
 				<a class="item has-peek" href="./DNS" target="_blank">
